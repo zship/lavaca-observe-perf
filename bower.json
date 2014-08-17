@@ -1,0 +1,9 @@
+{
+	"name": "lavaca-observe-perf",
+	"dependencies": {
+		"lavaca": "mutualmobile/lavaca#v3",
+		"observe-js": "Polymer/observe-js#0.3.5",
+		"mout": "0.9.1",
+		"benchmark": "1.0.0"
+	}
+}

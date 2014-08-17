@@ -119,6 +119,18 @@ Safari 7.0.3 (9537.75.14)
 [Log] Changes reported (async) 3672392 1 383435 187179 (app.js, line 125)
 
 
+Internet Explorer 11
+--------------------
+
+Plain Object (no observing) 113,696,944hz 0µs
+Object properties 6,139,052hz 0µs
+ObjectObserver 109,429,293hz 0µs
+ObjectObserver (excessive dirty checking) 54,453hz 18µs
+lavaca/mvc/Model 67,091hz 15µs
+Changes reported 8454445 1 71538 104594
+Changes reported (async) 8454445 1 71538 104594
+
+
 Chrome 36.0.1985.135 (Android/Nexus 5)
 --------------------------------------
 
